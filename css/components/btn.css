@@ -1,0 +1,12 @@
+.btn{
+	background-color: #12ba34;
+	padding: 15px 30px;
+	border-radius: 10px;
+	color: white;
+	font-style: 0;
+	text-decoration: none;
+	font-family: 'Poller One', cursive;
+}
+.btn:hover{
+	background-color: white;
+	color: #12ba34;}
